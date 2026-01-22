@@ -104,8 +104,7 @@ The script generates:
 
 ## Author
 
-Baran Can Balta
-- Email: barancanbalta@outlook.com
+For questions or contributions, please open an issue on GitHub.
 
 ## License
 

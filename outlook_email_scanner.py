@@ -4,8 +4,7 @@ Outlook Email Address Scanner
 A comprehensive tool to extract email addresses from Outlook mailboxes.
 Scans sent items and archive folders to collect unique email addresses.
 
-Author: Baran Can Balta
-Email: barancanbalta@outlook.com
+For questions or contributions, please open an issue on GitHub.
 """
 
 from __future__ import annotations
